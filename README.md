@@ -47,7 +47,7 @@
 ## 📫 Contato
 Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo sobre tecnologia, me chame!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/SEU-LINK) | 📧 luizgustavo664@gmail.com
+🔗 [LinkedIn]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/luiz-gustavo-campos-cazelatto-93783b2b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )) | 📧 gustavo.cazelatto@gmail.com
 
 ---
 
