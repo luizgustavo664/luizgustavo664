@@ -34,7 +34,7 @@
 |-------------------|----------------|------------------------|---------------|--------------------|
 | HTML              | Node.js        | React Native           | Figma         | MySQL              |
 | CSS               | Django         | Express.js             | Photoshop     | SQLite             |
-| JavaScript        |                | Bootstrap               |               |                    |
+| JavaScript        |                | Bootstrap              | Canva         |                    |
 
 ---
 
