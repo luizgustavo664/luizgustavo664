@@ -1,7 +1,8 @@
 <div align="center">
+  
+## Seja Bem Vindo! Eu sou o Luiz Gustavo!
 
-## Seja Bem Vindo! Eu o Luiz Gustavo!
-
+  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,28 +15,32 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Julianaquei&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px
+## Meus Conhecimentos
+
+| Frontend | Backend | Ferramentas  | Desing  | Banco de Dados |
+|:---------|:--------|:------------ |:------- |:---------------|
+|HTML      |Node.js  |ReactNative.js|Figma    |MySQL           |
+|CSS       |         |Express.js    |Photoshop|                |
+|JavaScript|         |Bootstrap     |         |                |
 
 
+## Meus status
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianaquei&layout=compact&theme=transparent&title_color=808080&text_color=808080&card_width=400px&height=700px" alt="Top Languages">
+ <img src="https://github-readme-stats.vercel.app/api?username=Julianaquei&show_icons=true&theme=transparent&hide=contribs,prs&title_color=808080&icon_color=808080&text_color=808080&height=700px" alt="Juliana GitHub Stats">
+<!--
+*Julianaquei/Julianaquei* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-MIT License
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 Copyright (c) 2025 Luiz Gustavo Campos 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+</div>
