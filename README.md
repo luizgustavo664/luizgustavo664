@@ -4,7 +4,7 @@
 # 👋 Seja Bem-Vindo(a)! Eu sou o Luiz Gustavo 👨‍💻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://piskel-imgstore-b.appspot.com/img/b50ae98c-5ae1-11f0-a047-edd4ccb75219.gif)" width="300">
   <h1>Seja bem-vindo! 👋</h1>
 </div>
 
