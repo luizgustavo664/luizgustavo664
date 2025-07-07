@@ -3,6 +3,11 @@
 
 # 👋 Seja Bem-Vindo(a)! Eu sou o Luiz Gustavo 👨‍💻
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <h1>Seja bem-vindo! 👋</h1>
+</div>
+
 🌟 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e soluções criativas.
 
 ---
