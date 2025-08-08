@@ -59,3 +59,5 @@ Se quiser trocar uma ideia, colaborar em algum projeto ou apenas bater um papo s
 <p align="center"><i>© 2025 Luiz Gustavo Campos Cazelatto</i></p>
 
 </div>
+<!-- 🌊 Footer animado com borda verde -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer"/>
