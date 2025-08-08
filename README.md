@@ -2,7 +2,9 @@
 <br>
 
 # 👋 Seja Bem-Vindo(a)! Eu sou o Luiz Gustavo 👨‍💻
-
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fguilhermesxx&s=21&c=4CAF50&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" /></p> 
+</div>
 
 🌟 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e soluções criativas.
 
